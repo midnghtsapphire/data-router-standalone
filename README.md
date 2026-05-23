@@ -44,3 +44,10 @@ npm run dev
 npm test
 npm run build
 ```
+
+## Research engines, suggestions, assets, and artifacts
+
+- `RESEARCH_ENGINES.md` — front-to-back research engine map and output structure.
+- `SUGGESTIONS.md` — prioritized implementation suggestions and rollout order.
+- `ASSETS.md` — inventory of product, engineering, and GTM assets in this repository.
+- `ARTIFACTS.md` — delivery artifacts, validation outputs, and release traceability.

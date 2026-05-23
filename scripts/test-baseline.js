@@ -9,6 +9,10 @@ const requiredFiles = [
   'GO_TO_MARKET.md',
   'BRAND_GUIDELINES.md',
   'SECURITY.md',
+  'RESEARCH_ENGINES.md',
+  'SUGGESTIONS.md',
+  'ASSETS.md',
+  'ARTIFACTS.md',
   'package.json'
 ];
 
