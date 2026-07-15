@@ -1,5 +1,9 @@
 # Data Router Standalone
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 Data Router Standalone is a full-stack data-routing platform that lets teams ingest, classify, and route data from multiple sources into operational destinations.
 
 ## What this repository does
